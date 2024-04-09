@@ -26,8 +26,8 @@ We have trained and placed over 200 Students with verious STEM, IT and non-IT ba
 * Interview Preparation
 * Professional Technical Resume review and preparation
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
+<div style="display: block; width: 100%;">
+    <div style="width: 48%; float: left;">
         <h2>Professional IT Training Programs</h2>
         <ul>
             <li><a href="https://www.tinitiate.com/it-training/python-aws-developer">Python AWS Developer Program</a></li>
@@ -39,7 +39,7 @@ We have trained and placed over 200 Students with verious STEM, IT and non-IT ba
             <li><a href="https://www.tinitiate.com/it-training/snowflake-platform">Snowflake Platform Program</a></li>
         </ul>
     </div>
-    <div style="width: 48%;">
+    <div style="width: 48%; float: right;">
         <h2>Beginners IT Training Courses</h2>
         <ul>
             <li><a href="https://www.tinitiate.com/beginners-it-training/python-language">Python Language Course</a></li>
@@ -47,4 +47,5 @@ We have trained and placed over 200 Students with verious STEM, IT and non-IT ba
             <li><a href="https://www.tinitiate.com/beginners-it-training/sql-database">SQL Database Course</a></li>
         </ul>
     </div>
+    <div style="clear: both;"></div>
 </div>
