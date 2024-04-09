@@ -4,7 +4,7 @@
 # Professional IT Training > TINITIATE.COM
 > (c) Team Tinitiate
 
-Official GITHUB repository of `www.tinitiate.com`
+Official GITHUB repository of www.tinitiate.com
 
 We are a dedicated team of IT professionals with a combined experience of over 50 years in various business domains and a wide range of technologies.
 We have trained and placed over 200 Students with verious STEM, IT and non-IT backgrounds.
