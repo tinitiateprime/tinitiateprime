@@ -26,26 +26,16 @@ We have trained and placed over 200 Students with verious STEM, IT and non-IT ba
 * Interview Preparation
 * Professional Technical Resume review and preparation
 
-<div style="display: block; width: 100%;">
-    <div style="width: 48%; float: left;">
-        <h2>Professional IT Training Programs</h2>
-        <ul>
-            <li><a href="https://www.tinitiate.com/it-training/python-aws-developer">Python AWS Developer Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/python-django-backend-developer">Python Django Backend Developer Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/powerbi-developer">Power BI Developer Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/azure-sql-server-developer">Azure SQL Server Developer Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/oracle-plsql-developer">Oracle PLSQL Developer Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/aws-devops">AWS DevOps Program</a></li>
-            <li><a href="https://www.tinitiate.com/it-training/snowflake-platform">Snowflake Platform Program</a></li>
-        </ul>
-    </div>
-    <div style="width: 48%; float: right;">
-        <h2>Beginners IT Training Courses</h2>
-        <ul>
-            <li><a href="https://www.tinitiate.com/beginners-it-training/python-language">Python Language Course</a></li>
-            <li><a href="https://www.tinitiate.com/beginners-it-training/java-language">Java Language Course</a></li>
-            <li><a href="https://www.tinitiate.com/beginners-it-training/sql-database">SQL Database Course</a></li>
-        </ul>
-    </div>
-    <div style="clear: both;"></div>
-</div>
+## Professional IT Training Programs:
+- [Python AWS Developer Program](https://www.tinitiate.com/it-training/python-aws-developer)
+- [Python Django Backend Developer Program](https://www.tinitiate.com/it-training/python-django-backend-developer)
+- [Power BI Developer Program](https://www.tinitiate.com/it-training/powerbi-developer)
+- [Azure SQL Server Developer Program](https://www.tinitiate.com/it-training/azure-sql-server-developer)
+- [Oracle PLSQL Developer Program](https://www.tinitiate.com/it-training/oracle-plsql-developer)
+- [AWS DevOps Program](https://www.tinitiate.com/it-training/aws-devops)
+- [Snowflake Platform Program](https://www.tinitiate.com/it-training/snowflake-platform)
+
+## Beginners IT Training Courses:
+- [Python Language Course](https://www.tinitiate.com/beginners-it-training/python-language)
+- [Java Language Course](https://www.tinitiate.com/beginners-it-training/java-language)
+- [SQL Database Course](https://www.tinitiate.com/beginners-it-training/sql-database)
