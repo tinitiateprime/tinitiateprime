@@ -1,7 +1,7 @@
 ![TINITIATE Logo](./tinitiate_white_bg_black_fg.png)
 <p align="center">&copy; TINITIATE.COM</p>
 
-# Professional IT Training <span style='font-size:10px;'>&#11166;</span> TINITIATE.COM
+# Professional IT Training <span style='font-size:10px;'>&#11166;</span> Technical Initiate
 > (c) Team Tinitiate
 
 Official GITHUB repository of www.tinitiate.com
