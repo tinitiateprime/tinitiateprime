@@ -1,6 +1,8 @@
 ![TINITIATE Logo](./tinitiate_white_bg_black_fg.png)
 <p align="center">&copy; TINITIATE.COM</p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&width=600&lines=Welcome+To+Tinitiate+GitHub!)](https://git.io/typing-svg)
+
 # Professional IT Training <span style='font-size:10px;'>&#11166;</span> Technical Initiate
 > (c) Team Tinitiate
 
